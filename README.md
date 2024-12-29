@@ -2,6 +2,8 @@
 This is a clone version of the Google Maps. which has been made as a debut project. This project doesn't particularly solve any problems but gives us a basic approach to anchor the confidence of building out something.  
 As this was my debut project made in 2021, the github account associated with it, has been deauthenticated and decomposed over the period of time. Luckily, I had backed up this source code in my hardrive, which made it possible to serve the possible neceessity. 
 
+**This code is not in the status of operation*, but optimized enough to analyze and assess the computation behind each functionality. 
+**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Aim of the Project:** This projects aims to ease the client/user, by computing the "Shortest Route", "The Fuel Efficient Route", "The Appropiate Arrival Time at the Destination". In short, it provides some essential information like distance, travel time and turn-to-turn instruction. 
